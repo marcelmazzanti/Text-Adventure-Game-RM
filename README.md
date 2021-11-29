@@ -1,4 +1,4 @@
-# Text Adventure Game Rick & Morty
+# Rick & Morty Text Adventure Game 
 
 By launching this Notebook, the player will be asked to take a series of decisions in order to survive a step-by-step text adventure game. 
 
