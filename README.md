@@ -1,5 +1,5 @@
 # Text-Adventure-Game-RM
-Short text adventure game inspired by a TV series.
+##Short text adventure game inspired by a TV series.
 
 
 By launching this Notebook, the player will be asked to take a series of decisions in order to survive a step-by-step text adventure game. 
